@@ -1,1 +1,3 @@
 New Line (local)
+Test Master diff (local)
+Test Master diff2 (local)
